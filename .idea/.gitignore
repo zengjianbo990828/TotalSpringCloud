@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\BaiduNetdiskDownload\1、微服务开发框架SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式史上最全面的微服务全技术栈课程\实用篇\学习资料\day01-SpringCloud01\资料\cloud-demo\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
